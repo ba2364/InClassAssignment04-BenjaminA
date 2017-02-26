@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">משגר כונה</string>
+    <string name="title">כותרת</string>
+    <string name="message">הודעה</string>
+    <string name="checkbox">לשלוח רק הכותרת</string>
+    <string name="send">תשלח בדואר אלקטרוני</string>
+    <string name="launch">תשגר פעולה</string>
+    <string name="camera">תשגר מצלמה</string>
+    <string name="hi">שלום!</string>
+</resources>
